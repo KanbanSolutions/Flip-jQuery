@@ -1,0 +1,18 @@
+{
+  "name": "Flip-jQuery",
+  "version": "0.0.0",
+  "homepage": "https://github.com/roncioso/Flip-jQuery",
+  "description": "Flip! is a jQuery plugin that enables card-flip animations with only css animation",
+  "main": "jquery.flip.js",
+  "authors": [
+    "roncioso"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
